@@ -1,0 +1,14 @@
+What is pandas
+
+1. pandas is an open source data analysis library writen in python.
+2. it leverages the power and speed of numpy to make data analysis and processing easy for data scientists.
+3. it provides rich and highly robust data operations.
+
+pandas data structure :
+-----------------------
+A.  pandas has two types of data structures:
+    1.Series- It's an 1-D array with indexes,it stores a sinle column or row of data in DataFrame.
+    2.DataFrame - It's a tabular spreadsheet like structure representation rows each of which contain one or multiple columns.
+    
+B. A 1-D array(labeled) capable of holding any one type of data - series.
+C. A 2-D data(labeled) structure with columns of potentially different types of data - DataFrame.
